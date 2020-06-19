@@ -24,4 +24,5 @@ public class ThWigrateWebappApplication {
     public ProvinceService provinceService() {
         return new ProvinceServiceImplWithSpringData();
     }
+
 }
